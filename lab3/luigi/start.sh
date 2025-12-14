@@ -1,0 +1,1 @@
+python workflow.py BuildAllMarts --run-date 2025-12-14 --scheduler-host localhost --scheduler-port 8228
